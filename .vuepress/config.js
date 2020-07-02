@@ -1,6 +1,7 @@
 module.exports  =  {
     title: 'Tên blog',
     description: 'Mô tả về blog',
+    dest: 'docs',
     locales:  {
       '/vi':  {
         lang:  'vi-VN',
